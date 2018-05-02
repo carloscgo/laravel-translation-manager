@@ -29,6 +29,5 @@
                 "CarlosCGO\\TranslationManager\\ManagerServiceProvider"
             ]
         }
-    },
-    "minimum-stability": "stable"
+    }
 }
